@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.starter.activity.CadastroActivity"
+    android:background="@drawable/fundo_degrade"
+    android:padding="16dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/iv_usuario"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/usuario"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:id="@+id/et_usuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_usuario"
+            android:background="@drawable/fundo_caixa_texto"
+            android:padding="16dp"
+            android:layout_marginTop="20dp"
+            android:hint="@string/hint_usuario"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:inputType="text"/>
+
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/et_usuario"
+            android:background="@drawable/fundo_caixa_texto"
+            android:padding="16dp"
+            android:layout_marginTop="10dp"
+            android:hint="@string/hint_email"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/et_senha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/et_email"
+            android:background="@drawable/fundo_caixa_texto"
+            android:padding="16dp"
+            android:layout_marginTop="10dp"
+            android:hint="@string/hint_senha"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:inputType="textPassword"/>
+
+        <Button
+            android:id="@+id/bt_cadastrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/et_senha"
+            android:background="@drawable/fundo_botao"
+            android:layout_marginTop="20dp"
+            android:text="@string/bt_cadastrar"
+            android:onClick="cadastrarUsuario"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

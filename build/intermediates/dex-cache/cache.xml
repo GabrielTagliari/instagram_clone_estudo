@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6bde6690f2349095534773871505e6f26e05103a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a9605bfeaa805d1e379812b718e91d8661be792">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e48f1d4f8269b5b53d391851d01e11ffd3611321/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_0c94a3fff510884fb095ce54f505ab6a22ef7546.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/.android/build-cache/ad5e63fd9fd58434dd17ac5e533b25a9bcb19a0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a9011499ffa7613f226f0345ad91666a59dc222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/.android/build-cache/a29d70bfe16b14c92b958071a1b15c776eb3c83f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_540c23bec381ad4b7d9cd7a1547b15055552da7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37c6b1cb3d25ba5ba571638eec81142daac35494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_18fdb10897a95f9ed8b921a6b4f94480cdf1775a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/615e1af895e9876f274892dda0304ceac143142e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/classes_354af1ecd486647f958c89e967d3b3a0d1ad19e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/.android/build-cache/62d977d194967159d2564c5691a02cc4fb7717f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5ae7c6928c631bea0ee4964d79ac3f451761848/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/f1894e355e1b5737091930d78d4c0ff9024ec08a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/classes_be181bca59cbf3a2ae7b5b9c5cd069e41139d977.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/.android/build-cache/9651abe44b7d1c0bae9389ce3f92777f1faad20c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e152ac33c26f44479bcd96157a2990b006bef1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/.android/build-cache/b0e9abc1cc009d86ac7308123250e057af4d513b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f43202083ad9fdaa2b1b1ef4070ae93a9931c65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/.android/build-cache/bcc2e6aadda0860b853c300a8a6108e85f2bcc3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee7ddc8cd07b5370a12e2e117a1eee3ff6bbc192/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/picasso-2.5.2_8e6b54b7f267b4e4b35f8d25d898fc03e5969361.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/.android/build-cache/bcc2e6aadda0860b853c300a8a6108e85f2bcc3a/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_c293ff99c6ebfe4925636b4f22ebb5bad70256f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.0_ba884fdd62bc87b1f339278da6df4eda36e0b071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/f1894e355e1b5737091930d78d4c0ff9024ec08a/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_d8c5e28d5982cb7ebdb59435e251dc2f27e6246e.jar" />
+    </item>
+
+</items>

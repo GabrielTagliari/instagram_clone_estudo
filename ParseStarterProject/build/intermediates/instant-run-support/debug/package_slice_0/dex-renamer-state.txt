@@ -1,0 +1,4 @@
+#Thu Aug 10 23:25:34 BRT 2017
+base.0=/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

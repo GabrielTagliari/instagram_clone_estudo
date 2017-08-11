@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:9:1-51:12
+	package
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+application
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:16:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gabriel/.android/build-cache/53e128dc35ad6b2cb89c840119df3fe8d0c20de4/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] /home/gabriel/.android/build-cache/ad5e63fd9fd58434dd17ac5e533b25a9bcb19a0e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/gabriel/.android/build-cache/b0e9abc1cc009d86ac7308123250e057af4d513b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/gabriel/.android/build-cache/a29d70bfe16b14c92b958071a1b15c776eb3c83f/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/gabriel/.android/build-cache/62d977d194967159d2564c5691a02cc4fb7717f9/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/gabriel/.android/build-cache/bcc2e6aadda0860b853c300a8a6108e85f2bcc3a/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:19:9-44
+	android:theme
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:26:13-48
+activity#com.parse.starter.activity.LoginActivity
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:30:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:35:27-74
+activity#com.parse.starter.activity.MainActivity
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:38:9-59
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:38:19-56
+activity#com.parse.starter.activity.CadastroActivity
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:39:9-63
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:39:19-60
+activity#com.parse.starter.activity.FeedUsuarioActivity
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:42:13-64
+	android:parentActivityName
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:43:13-64
+	android:theme
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:41:13-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:45:13-47:75
+	android:value
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:47:17-72
+	android:name
+		ADDED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml:46:17-63
+uses-sdk
+INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gabriel/.android/build-cache/53e128dc35ad6b2cb89c840119df3fe8d0c20de4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.4.0] /home/gabriel/.android/build-cache/ad5e63fd9fd58434dd17ac5e533b25a9bcb19a0e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/gabriel/.android/build-cache/9651abe44b7d1c0bae9389ce3f92777f1faad20c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/gabriel/.android/build-cache/b0e9abc1cc009d86ac7308123250e057af4d513b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/gabriel/.android/build-cache/a29d70bfe16b14c92b958071a1b15c776eb3c83f/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/gabriel/.android/build-cache/62d977d194967159d2564c5691a02cc4fb7717f9/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/gabriel/.android/build-cache/bcc2e6aadda0860b853c300a8a6108e85f2bcc3a/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/gabriel/.android/build-cache/b0e9abc1cc009d86ac7308123250e057af4d513b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+#Thu Aug 10 23:25:34 BRT 2017
+base.0=/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e48f1d4f8269b5b53d391851d01e11ffd3611321
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37c6b1cb3d25ba5ba571638eec81142daac35494/classes.dex
+base.1=/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37c6b1cb3d25ba5ba571638eec81142daac35494
+file.0=/home/gabriel/Desktop/Parse-Projeto-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e48f1d4f8269b5b53d391851d01e11ffd3611321/classes.dex
